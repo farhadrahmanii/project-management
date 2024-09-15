@@ -30,7 +30,8 @@ class ActivitiesReport extends BarChartWidget
     {
         return [
             2022 => 2022,
-            2023 => 2023
+            2023 => 2023,
+            2024 => 2024,
         ];
     }
 
