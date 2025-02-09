@@ -27,7 +27,6 @@
 
 # Introduction
 
-![logo](readme-logo.png)
 
 Rahmani PMS, is a great tool if you want to manage your projects, tickets and be here for your clients
 
